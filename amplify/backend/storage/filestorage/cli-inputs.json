@@ -1,0 +1,12 @@
+{
+  "resourceName": "filestorage",
+  "policyUUID": "d1ce285d",
+  "bucketName": "medical-storage-sa-launch-mg",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "S3Trigger57d7ba0c",
+  "groupAccess": {}
+}

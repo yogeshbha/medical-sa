@@ -1,0 +1,32 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyee6fac7ae4314-staging-71701-authRole",
+      "UnauthRoleArn": "arn:aws:iam::256691180274:role/amplify-amplifyee6fac7ae4314-staging-71701-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::256691180274:role/amplify-amplifyee6fac7ae4314-staging-71701-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-amplifyee6fac7ae4314-staging-71701-deployment",
+      "UnauthRoleName": "amplify-amplifyee6fac7ae4314-staging-71701-unauthRole",
+      "StackName": "amplify-amplifyee6fac7ae4314-staging-71701",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:256691180274:stack/amplify-amplifyee6fac7ae4314-staging-71701/96f57bb0-a2c9-11ed-ab12-0ac83340168a",
+      "AmplifyAppId": "d1jbpob67gh8g4"
+    },
+    "categories": {
+      "auth": {
+        "medicalappsalaunchef31a0fc": {}
+      },
+      "api": {
+        "medicalappsalaunch": {}
+      },
+      "function": {
+        "S3Trigger57d7ba0c": {
+          "deploymentBucketName": "amplify-amplifyee6fac7ae4314-staging-71701-deployment",
+          "s3Key": "amplify-builds/S3Trigger57d7ba0c-6b48355853716661374b-build.zip"
+        }
+      },
+      "storage": {
+        "filestorage": {}
+      }
+    }
+  }
+}
